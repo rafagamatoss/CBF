@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  margin-right: 1rem;
+}
+
+.times{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+.time{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+  padding: 1rem;
+  width: 90%;
+  margin: 2rem;
+}
